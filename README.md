@@ -5,6 +5,7 @@
 ## Note
 - the was located at intialProject incase it doesn't work
 - read the pdf file for documentations
+- run the bat script file to run the website
 ## Picture Preview
 ![image](https://github.com/user-attachments/assets/dc331e69-2f17-49b9-945e-eb1ac9a9434a)
 ![image](https://github.com/user-attachments/assets/7287d6a3-a3cd-4ae8-b67a-5c4679f79312)
